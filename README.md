@@ -22,6 +22,8 @@ Importe o banco de dados no seu SGBD preferido, ou até no navegador atraves do 
   Execute as consultas SQL no console de consulta do seu banco de dados para obter as respostas para as perguntas acima.
 ```
 
+## PERGUNTAS
+
   ```bash
 -- 1. Como você pega todos os dados dos filmes?
 -- 2. Como você pega todos os dados sobre os diretores?
